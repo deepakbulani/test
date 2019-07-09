@@ -1,0 +1,10 @@
+names=["mark","john","bulani"]
+add=[23,12,78,89]
+names.append("patrik")
+#names.extend(add)
+print(names)
+print(len(names))
+print(max(names))
+names.remove("mark")
+print(names)
+print(names,add)
