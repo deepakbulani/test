@@ -9,6 +9,7 @@ b=" "
 b=b+d[0]
 print(b)
 '''
+print('hello')
 for i in range(0,5):
  print(i)
  for j in range(0,1):
